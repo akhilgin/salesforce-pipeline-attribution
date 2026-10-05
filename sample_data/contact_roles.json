@@ -1,0 +1,246 @@
+[
+ {
+  "OpportunityId": "006SAMPLE0000",
+  "ContactId": "003SAMPLE0000"
+ },
+ {
+  "OpportunityId": "006SAMPLE0001",
+  "ContactId": "003SAMPLE0102"
+ },
+ {
+  "OpportunityId": "006SAMPLE0002",
+  "ContactId": "003SAMPLE0202"
+ },
+ {
+  "OpportunityId": "006SAMPLE0003",
+  "ContactId": "003SAMPLE0302"
+ },
+ {
+  "OpportunityId": "006SAMPLE0004",
+  "ContactId": "003SAMPLE0400"
+ },
+ {
+  "OpportunityId": "006SAMPLE0004",
+  "ContactId": "003SAMPLE0402"
+ },
+ {
+  "OpportunityId": "006SAMPLE0005",
+  "ContactId": "003SAMPLE0502"
+ },
+ {
+  "OpportunityId": "006SAMPLE0006",
+  "ContactId": "003SAMPLE0601"
+ },
+ {
+  "OpportunityId": "006SAMPLE0006",
+  "ContactId": "003SAMPLE0602"
+ },
+ {
+  "OpportunityId": "006SAMPLE0007",
+  "ContactId": "003SAMPLE0702"
+ },
+ {
+  "OpportunityId": "006SAMPLE0007",
+  "ContactId": "003SAMPLE0701"
+ },
+ {
+  "OpportunityId": "006SAMPLE0008",
+  "ContactId": "003SAMPLE0801"
+ },
+ {
+  "OpportunityId": "006SAMPLE0009",
+  "ContactId": "003SAMPLE0902"
+ },
+ {
+  "OpportunityId": "006SAMPLE0009",
+  "ContactId": "003SAMPLE0901"
+ },
+ {
+  "OpportunityId": "006SAMPLE0010",
+  "ContactId": "003SAMPLE1002"
+ },
+ {
+  "OpportunityId": "006SAMPLE0010",
+  "ContactId": "003SAMPLE1000"
+ },
+ {
+  "OpportunityId": "006SAMPLE0011",
+  "ContactId": "003SAMPLE1101"
+ },
+ {
+  "OpportunityId": "006SAMPLE0012",
+  "ContactId": "003SAMPLE0000"
+ },
+ {
+  "OpportunityId": "006SAMPLE0012",
+  "ContactId": "003SAMPLE0002"
+ },
+ {
+  "OpportunityId": "006SAMPLE0013",
+  "ContactId": "003SAMPLE0102"
+ },
+ {
+  "OpportunityId": "006SAMPLE0014",
+  "ContactId": "003SAMPLE0201"
+ },
+ {
+  "OpportunityId": "006SAMPLE0014",
+  "ContactId": "003SAMPLE0202"
+ },
+ {
+  "OpportunityId": "006SAMPLE0015",
+  "ContactId": "003SAMPLE0300"
+ },
+ {
+  "OpportunityId": "006SAMPLE0015",
+  "ContactId": "003SAMPLE0302"
+ },
+ {
+  "OpportunityId": "006SAMPLE0016",
+  "ContactId": "003SAMPLE0402"
+ },
+ {
+  "OpportunityId": "006SAMPLE0016",
+  "ContactId": "003SAMPLE0400"
+ },
+ {
+  "OpportunityId": "006SAMPLE0017",
+  "ContactId": "003SAMPLE0502"
+ },
+ {
+  "OpportunityId": "006SAMPLE0017",
+  "ContactId": "003SAMPLE0500"
+ },
+ {
+  "OpportunityId": "006SAMPLE0018",
+  "ContactId": "003SAMPLE0601"
+ },
+ {
+  "OpportunityId": "006SAMPLE0018",
+  "ContactId": "003SAMPLE0600"
+ },
+ {
+  "OpportunityId": "006SAMPLE0019",
+  "ContactId": "003SAMPLE0702"
+ },
+ {
+  "OpportunityId": "006SAMPLE0019",
+  "ContactId": "003SAMPLE0700"
+ },
+ {
+  "OpportunityId": "006SAMPLE0020",
+  "ContactId": "003SAMPLE0801"
+ },
+ {
+  "OpportunityId": "006SAMPLE0020",
+  "ContactId": "003SAMPLE0802"
+ },
+ {
+  "OpportunityId": "006SAMPLE0021",
+  "ContactId": "003SAMPLE0902"
+ },
+ {
+  "OpportunityId": "006SAMPLE0021",
+  "ContactId": "003SAMPLE0901"
+ },
+ {
+  "OpportunityId": "006SAMPLE0022",
+  "ContactId": "003SAMPLE1000"
+ },
+ {
+  "OpportunityId": "006SAMPLE0022",
+  "ContactId": "003SAMPLE1002"
+ },
+ {
+  "OpportunityId": "006SAMPLE0023",
+  "ContactId": "003SAMPLE1102"
+ },
+ {
+  "OpportunityId": "006SAMPLE0024",
+  "ContactId": "003SAMPLE0001"
+ },
+ {
+  "OpportunityId": "006SAMPLE0025",
+  "ContactId": "003SAMPLE0102"
+ },
+ {
+  "OpportunityId": "006SAMPLE0025",
+  "ContactId": "003SAMPLE0101"
+ },
+ {
+  "OpportunityId": "006SAMPLE0026",
+  "ContactId": "003SAMPLE0201"
+ },
+ {
+  "OpportunityId": "006SAMPLE0027",
+  "ContactId": "003SAMPLE0302"
+ },
+ {
+  "OpportunityId": "006SAMPLE0028",
+  "ContactId": "003SAMPLE0402"
+ },
+ {
+  "OpportunityId": "006SAMPLE0029",
+  "ContactId": "003SAMPLE0500"
+ },
+ {
+  "OpportunityId": "006SAMPLE0029",
+  "ContactId": "003SAMPLE0501"
+ },
+ {
+  "OpportunityId": "006SAMPLE0030",
+  "ContactId": "003SAMPLE0601"
+ },
+ {
+  "OpportunityId": "006SAMPLE0030",
+  "ContactId": "003SAMPLE0602"
+ },
+ {
+  "OpportunityId": "006SAMPLE0031",
+  "ContactId": "003SAMPLE0702"
+ },
+ {
+  "OpportunityId": "006SAMPLE0031",
+  "ContactId": "003SAMPLE0701"
+ },
+ {
+  "OpportunityId": "006SAMPLE0032",
+  "ContactId": "003SAMPLE0801"
+ },
+ {
+  "OpportunityId": "006SAMPLE0033",
+  "ContactId": "003SAMPLE0901"
+ },
+ {
+  "OpportunityId": "006SAMPLE0034",
+  "ContactId": "003SAMPLE1000"
+ },
+ {
+  "OpportunityId": "006SAMPLE0035",
+  "ContactId": "003SAMPLE1100"
+ },
+ {
+  "OpportunityId": "006SAMPLE0036",
+  "ContactId": "003SAMPLE0001"
+ },
+ {
+  "OpportunityId": "006SAMPLE0037",
+  "ContactId": "003SAMPLE0100"
+ },
+ {
+  "OpportunityId": "006SAMPLE0037",
+  "ContactId": "003SAMPLE0101"
+ },
+ {
+  "OpportunityId": "006SAMPLE0038",
+  "ContactId": "003SAMPLE0201"
+ },
+ {
+  "OpportunityId": "006SAMPLE0039",
+  "ContactId": "003SAMPLE0301"
+ },
+ {
+  "OpportunityId": "006SAMPLE0039",
+  "ContactId": "003SAMPLE0300"
+ }
+]

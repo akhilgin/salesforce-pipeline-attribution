@@ -1,0 +1,19 @@
+{
+  "_comment": "Copy to config.json and edit. Fields ending in __c are examples of custom fields; use your own.",
+  "entry_date_field": "CreatedDate",
+  "source_field": "LeadSource",
+  "stage_date_fields": {},
+  "channel_field": "Type",
+  "channel_map": {},
+  "touch_scope": "contact_roles",
+  "touch_date_field": "CreatedDate",
+  "responded_only": false,
+  "window_days": 365,
+  "collapse_by_campaign": false,
+  "u_shaped": {"first": 0.4, "last": 0.4},
+  "exclude_campaigns": [],
+  "since": null,
+  "api_version": "v60.0",
+  "sf_org_alias": null,
+  "models": ["first_touch", "last_touch", "linear", "u_shaped"]
+}

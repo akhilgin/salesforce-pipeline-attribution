@@ -1,0 +1,10 @@
+{
+  "entry_date_field": "CreatedDate",
+  "source_field": "LeadSource",
+  "stage_date_fields": {"Discovery": "Stage_Discovery_Date__c", "Demo": "Stage_Demo_Date__c"},
+  "channel_field": "Type",
+  "channel_map": {"Event": "Conference", "Content": "Email", "Product": "Product-led"},
+  "touch_scope": "contact_roles",
+  "window_days": 365,
+  "exclude_campaigns": ["Test Campaign (ignore)"]
+}
